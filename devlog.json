@@ -10,5 +10,28 @@
       "title": "UI Sistemi",
       "text": "Responsive popup sistemi oluşturuldu."
     }
+  ],
+  "projects": [
+    {
+      "title": "Space Scientist Idle Clicker",
+      "status": "itch.io'da yayında",
+      "description": "Uzay temalı idle clicker PC oyunum. Oyuncular kaynak toplayarak bilimsel gelişimler yapar ve uzay araştırmalarını ilerletir.",
+      "button": "itch.io Sayfasını Aç",
+      "url": "https://melihcagridayi.itch.io/space-scientist-idle-clicker"
+    },
+    {
+      "title": "Geliştirdiğim Oyun 1",
+      "status": "Geliştirme aşamasında",
+      "description": "Aktif olarak geliştirdiğim PC oyunum. Oynanış mekanikleri, atmosfer ve sistem tasarımı üzerine çalışıyorum.",
+      "button": "Yakında",
+      "url": ""
+    },
+    {
+      "title": "Geliştirdiğim Oyun 2",
+      "status": "Prototip aşamasında",
+      "description": "Deneysel mekanikler ve yeni oynanış sistemleri üzerine geliştirdiğim PC oyunum.",
+      "button": "Yakında",
+      "url": ""
+    }
   ]
 }
