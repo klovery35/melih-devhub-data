@@ -30,7 +30,13 @@
     {
       "title": "Space Scientist",
       "status": "itch.io'da yayında",
-      "platform": "PC",
+      "platform": "PC / itch.io",
+      "icon": "https://raw.githubusercontent.com/klovery35/melih-devhub-data/main/images/space_icon.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/klovery35/melih-devhub-data/main/images/space_1.png",
+        "https://raw.githubusercontent.com/klovery35/melih-devhub-data/main/images/space_2.png",
+        "https://raw.githubusercontent.com/klovery35/melih-devhub-data/main/images/space_3.png"
+      ],
       "short_description": "Uzay temalı idle/clicker PC oyunu. Kaynak üret, sistemlerini geliştir ve bilimsel araştırmalarını büyüt.",
       "description": "Space Scientist, Godot ile geliştirilen uzay temalı idle/clicker PC oyunudur. Oyuncular kaynak üreterek sistemlerini geliştirir, bilimsel araştırmalarını büyütür ve uzayın derinliklerine doğru ilerler. Oyun itch.io üzerinde yayınlanmış durumdadır ancak geliştirme süreci devam etmektedir. Gelecekte yeni içerikler, denge güncellemeleri, geliştirilmiş sistemler ve daha fazla ilerleme mekaniği eklenmesi planlanmaktadır.",
       "button": "itch.io Sayfasını Aç",
@@ -40,6 +46,8 @@
       "title": "Escape Your Fear",
       "status": "Aktif geliştirme aşamasında",
       "platform": "PC",
+      "icon": "",
+      "screenshots": [],
       "short_description": "Çok oyunculu asimetrik korku deneyimi. Görevleri tamamla, takımınla hayatta kal ve kaçış yolunu bul.",
       "description": "Escape Your Fear, çok oyunculu asimetrik korku deneyimi sunmayı hedefleyen bir PC oyunudur. Oyuncular görevleri tamamlayarak kaçmaya çalışırken gerilim, takım koordinasyonu ve hayatta kalma kararları ön plana çıkar. Oyun; görev sistemi, kurtulma mekanikleri ve kendine özgü özel oynanış sistemleri üzerine inşa edilmektedir. Atmosfer, oynanış hissi ve tekrar oynanabilirlik üzerinde aktif olarak çalışılmaktadır. Proje için oyun içi görseller, karakterler, çevre tasarımları ve genel görsel kimlik konusunda destek verebilecek bir tasarımcıya ihtiyaç vardır.",
       "button": "Yakında",
@@ -49,6 +57,8 @@
       "title": "Dino Zones",
       "status": "Prototip / geliştirme aşamasında",
       "platform": "PC",
+      "icon": "",
+      "screenshots": [],
       "short_description": "Dinozor temalı stratejik kart oyunu. Kart kombinasyonlarıyla taktiksel karşılaşmalara gir.",
       "description": "Dino Zones, dinozor temalı stratejik kart oyunu olarak geliştirilen bir PC projesidir. Oyuncular farklı kart kombinasyonları, özel yetenekler ve taktiksel hamlelerle karşılaşmalara girer. Oyun altyapısı tamamlanmış olup yeni mekanikler, kart sistemleri ve denge yapısı üzerinde çalışmalar devam etmektedir. Projenin hedefi, kolay anlaşılır ama stratejik derinliği olan bir kart oyunu deneyimi sunmaktır. Kart tasarımları, arayüz, ikonlar ve genel görsel stil için projeye katkı sağlayabilecek bir tasarımcıya ihtiyaç vardır.",
       "button": "Yakında",
