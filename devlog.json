@@ -1,0 +1,14 @@
+{
+  "devlog": [
+    {
+      "date": "2026-05-14",
+      "title": "Portfolio App Başladı",
+      "text": "Godot tabanlı developer hub sistemi geliştirilmeye başlandı."
+    },
+    {
+      "date": "2026-05-13",
+      "title": "UI Sistemi",
+      "text": "Responsive popup sistemi oluşturuldu."
+    }
+  ]
+}
