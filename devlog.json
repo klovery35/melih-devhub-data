@@ -1,35 +1,50 @@
 {
   "devlog": [
     {
-      "date": "2026-05-14",
-      "title": "Portfolio App Başladı",
-      "text": "Godot tabanlı developer hub sistemi geliştirilmeye başlandı."
+      "date": "2026-04-08",
+      "title": "Space Scientist Yayında",
+      "text": "İlk yayınlanan oyunumuz Space Scientist itch.io üzerinde yayınlandı."
     },
     {
-      "date": "2026-05-13",
-      "title": "UI Sistemi",
-      "text": "Responsive popup sistemi oluşturuldu."
+      "date": "2026-04-20",
+      "title": "Korku Oyunu Planlama Süreci",
+      "text": "Yeni çok oyunculu korku oyunumuz için oynanış fikirleri, sistem planlamaları ve temel mekanik kararları toplanmaya başlandı."
+    },
+    {
+      "date": "2026-04-27",
+      "title": "Görev ve Kurtulma Sistemi",
+      "text": "Korku oyunumuzun görev sistemi ve oyuncuların kaçış/kurtulma mekanikleri tamamlandı."
+    },
+    {
+      "date": "2026-05-04",
+      "title": "Özel Sistem Geliştirmesi",
+      "text": "Korku oyunumuzu diğer oyunlardan ayıracak özel bir oynanış sistemi geliştirilmeye başlandı."
+    },
+    {
+      "date": "2026-05-11",
+      "title": "Dino Zones Altyapısı",
+      "text": "Dinozor temalı kart oyunumuz Dino Zones'un temel altyapı sistemleri tamamlandı."
     }
   ],
   "projects": [
     {
-      "title": "Space Scientist Idle Clicker",
+      "title": "Space Scientist",
       "status": "itch.io'da yayında",
-      "description": "Uzay temalı idle clicker PC oyunum. Oyuncular kaynak toplayarak bilimsel gelişimler yapar ve uzay araştırmalarını ilerletir.",
+      "description": "Godot ile geliştirilen uzay temalı idle/clicker PC oyunu. Oyuncular kaynak üretip sistemlerini geliştirerek bilimsel araştırmalarını büyütür ve uzayın derinliklerine doğru ilerler. Oyun hala aktif geliştirme sürecinde olup yeni içerikler, geliştirmeler ve sistem güncellemeleri almaya devam edecek.",
       "button": "itch.io Sayfasını Aç",
       "url": "https://melihcagridayi.itch.io/space-scientist-idle-clicker"
     },
     {
-      "title": "Geliştirdiğim Oyun 1",
-      "status": "Geliştirme aşamasında",
-      "description": "Aktif olarak geliştirdiğim PC oyunum. Oynanış mekanikleri, atmosfer ve sistem tasarımı üzerine çalışıyorum.",
+      "title": "Escape Your Fear",
+      "status": "Aktif geliştirme aşamasında",
+      "description": "Çok oyunculu asimetrik korku deneyimi sunan PC oyunu. Oyuncular görevleri tamamlayarak kaçmaya çalışırken gerilim ve takım koordinasyonu ön plana çıkıyor. Atmosfer, oynanış hissi ve tekrar oynanabilirlik üzerine yoğun şekilde çalışılıyor. Proje için oyun içi görseller, karakterler ve çevre tasarımları konusunda destek verebilecek bir tasarımcı aranıyor.",
       "button": "Yakında",
       "url": ""
     },
     {
-      "title": "Geliştirdiğim Oyun 2",
-      "status": "Prototip aşamasında",
-      "description": "Deneysel mekanikler ve yeni oynanış sistemleri üzerine geliştirdiğim PC oyunum.",
+      "title": "Dino Zones",
+      "status": "Prototip / geliştirme aşamasında",
+      "description": "Dinozor temalı stratejik kart oyunu projesi. Oyuncular farklı kart kombinasyonları ve özel yeteneklerle taktiksel karşılaşmalara girer. Oyun altyapısı aktif olarak geliştiriliyor ve yeni mekanikler test ediliyor. Kart tasarımları, arayüz ve genel görsel stil için projeye katkı sağlayabilecek bir tasarımcı aranıyor.",
       "button": "Yakında",
       "url": ""
     }
