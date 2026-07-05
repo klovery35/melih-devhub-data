@@ -24,6 +24,31 @@
       "date": "2026-05-11",
       "title": "Dino Zones Altyapısı",
       "text": "Dinozor temalı kart oyunumuz Dino Zones'un temel altyapı sistemleri tamamlandı."
+    },
+    {
+      "date": "2026-05-25",
+      "title": "Yeni Dinozorlar Eklendi",
+      "text": "Dino Zones'a yeni dinozor kartları ve bunlara ait özel yetenekler oyuna eklendi."
+    },
+    {
+      "date": "2026-06-10",
+      "title": "Arayüz Güncellendi",
+      "text": "Dino Zones'un kullanıcı arayüzü tamamen yenilenerek daha modern ve kullanışlı bir görünüme kavuşturuldu."
+    },
+    {
+      "date": "2026-06-25",
+      "title": "Günlük Sistemler Eklendi",
+      "text": "Dino Zones'a oyuncuların her gün ödüller kazanabileceği günlük ödül sistemi ve günlük görev sistemi eklendi."
+    },
+    {
+      "date": "2026-06-30",
+      "title": "Mağaza Güncellendi",
+      "text": "Dino Zones mağazası yenilendi. Yeni satın alınabilir içerikler, düzenlemeler ve kullanıcı deneyimini geliştiren iyileştirmeler eklendi."
+    },
+    {
+      "date": "2026-07-05",
+      "title": "Ses Efektleri Eklendi",
+      "text": "Dino Zones'a kart oynama, buton etkileşimleri ve oyun içi olaylar için yeni ses efektleri eklendi."
     }
   ],
   "projects": [
