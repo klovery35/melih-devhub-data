@@ -1,59 +1,39 @@
 {
   "devlog": [
     {
-      "date": "2026-04-08",
-      "title": "Space Scientist Yayında",
-      "text": "İlk yayınlanan oyunumuz Space Scientist itch.io üzerinde yayınlandı."
-    },
-    {
-      "date": "2026-04-20",
-      "title": "Escape Your Fear Planlama Süreci",
-      "text": "Yeni çok oyunculu korku oyunumuz Escape Your Fear için oynanış fikirleri, sistem planlamaları ve temel mekanik kararları toplanmaya başlandı."
-    },
-    {
-      "date": "2026-04-27",
-      "title": "Görev ve Kurtulma Sistemi",
-      "text": "Escape Your Fear'ın görev sistemi ve oyuncuların kaçış/kurtulma mekanikleri tamamlandı."
-    },
-    {
-      "date": "2026-05-04",
-      "title": "Özel Sistem Geliştirmesi",
-      "text": "Escape Your Fear'ı diğer korku oyunlarından ayıracak özel bir oynanış sistemi geliştirilmeye başlandı."
-    },
-    {
       "date": "2026-05-11",
-      "title": "Dino Zones Altyapısı",
-      "text": "Dinozor temalı kart oyunumuz Dino Zones'un temel altyapı sistemleri tamamlandı."
+      "title": "Dino Zones'un Temel Altyapısı Tamamlandı",
+      "text": "Dino Zones'un temel oyun altyapısının ilk büyük geliştirme aşaması tamamlandı. Dinozor temalı stratejik kart oyununun kart sistemi, temel savaş yapısı ve oyuncuların karşılaşmalarda kullanacağı ana mekanikler oluşturuldu. Kartların oyun içerisinde kullanılabilmesi, temel değerlerinin işlenmesi ve savaş alanındaki etkileşimlerin yönetilmesi için gerekli sistemler hazırlandı. Bu aşamayla birlikte proje, temel prototip yapısından oynanabilir bir kart oyunu altyapısına doğru önemli bir adım attı. Bundan sonraki geliştirme sürecinde yeni dinozorların, kart yeteneklerinin, arayüzlerin ve oyuncu ilerleme sistemlerinin bu altyapı üzerine eklenmesi planlandı."
     },
     {
       "date": "2026-05-25",
-      "title": "Yeni Dinozorlar Eklendi",
-      "text": "Dino Zones'a yeni dinozor kartları ve bunlara ait özel yetenekler oyuna eklendi."
+      "title": "Yeni Dinozorlar ve Kart Yetenekleri Eklendi",
+      "text": "Dino Zones'un kart çeşitliliğini artırmak amacıyla oyuna yeni dinozorlar eklendi. Yeni kartlarla birlikte dinozorların yalnızca farklı güç değerlerine sahip olması yerine, karşılaşmaların gidişatını değiştirebilecek özel yetenekler üzerinde çalışıldı. Farklı kartların birlikte kullanılmasını teşvik edecek kombinasyonlar ve stratejik seçenekler geliştirilmeye başlandı. Böylece oyuncuların yalnızca güçlü kartları kullanması yerine kendi oyun tarzlarına uygun desteler oluşturabilmesi hedeflendi. Yeni dinozorların eklenmesiyle birlikte Dino Zones'un kart havuzu genişledi ve oyunun temel stratejik yapısı daha belirgin hale gelmeye başladı."
     },
     {
       "date": "2026-06-10",
-      "title": "Arayüz Güncellendi",
-      "text": "Dino Zones'un kullanıcı arayüzü tamamen yenilenerek daha modern ve kullanışlı bir görünüme kavuşturuldu."
+      "title": "Oyun Arayüzleri Yenilendi",
+      "text": "Dino Zones'un kullanıcı arayüzleri kapsamlı bir güncellemeden geçirildi. Ana menü, kart alanları ve oyun içerisindeki temel arayüz bileşenleri daha anlaşılır ve kullanışlı olacak şekilde yeniden düzenlendi. Oyuncunun ihtiyaç duyduğu bilgilere daha hızlı ulaşabilmesi için arayüz yerleşimleri gözden geçirildi ve gereksiz görsel karmaşa azaltıldı. Menü geçişleri ve butonların yerleşimleri iyileştirilirken kart bilgilerinin daha rahat okunabilmesi için çeşitli düzenlemeler yapıldı. Bu güncelleme, ilerleyen dönemlerde oluşturulacak nihai görsel kimlik için de daha sağlam ve düzenli bir arayüz altyapısı oluşturdu."
     },
     {
       "date": "2026-06-25",
-      "title": "Günlük Sistemler Eklendi",
-      "text": "Dino Zones'a oyuncuların her gün ödüller kazanabileceği günlük ödül sistemi ve günlük görev sistemi eklendi."
+      "title": "Günlük Ödül ve Günlük Görev Sistemleri Eklendi",
+      "text": "Oyuncuların Dino Zones'a düzenli olarak geri dönmesini desteklemek amacıyla günlük ödül ve günlük görev sistemleri oyuna eklendi. Günlük ödül sistemi sayesinde oyuncular oyuna giriş yaptıklarında belirlenen ödülleri kazanabilecek bir ilerleme yapısına kavuştu. Bunun yanında oyuncuların her gün tamamlayabileceği görevlerden oluşan günlük görev sistemi geliştirildi. Bu görevlerin oyunculara farklı hedefler sunması ve karşılaşmalarda farklı stratejiler denemelerini teşvik etmesi amaçlandı. Yeni sistemler, Dino Zones'un yalnızca tek karşılaşmalardan oluşan bir kart oyunu yerine uzun vadeli oyuncu ilerlemesine sahip bir yapıya dönüşmesinin önemli adımlarından biri oldu."
     },
     {
       "date": "2026-06-30",
-      "title": "Mağaza Güncellendi",
-      "text": "Dino Zones mağazası yenilendi. Yeni satın alınabilir içerikler, düzenlemeler ve kullanıcı deneyimini geliştiren iyileştirmeler eklendi."
+      "title": "Mağaza Sistemi Güncellendi",
+      "text": "Dino Zones'un oyun içi mağazası yeniden düzenlendi ve mevcut sistem üzerinde çeşitli geliştirmeler yapıldı. Mağazanın oyuncular tarafından daha kolay anlaşılabilmesi için arayüz yapısı iyileştirildi ve satın alınabilir içeriklerin sunumu yeniden ele alındı. Oyuncuların sahip oldukları kaynakları ve satın alabilecekleri içerikleri daha rahat takip edebilmesi için mağaza içerisindeki bilgi gösterimleri düzenlendi. Gelecekte oyuna eklenecek yeni kartlar, kozmetik içerikler ve farklı ödül türlerinin desteklenebilmesi için mağaza altyapısı daha genişletilebilir bir yapıya getirildi."
     },
     {
       "date": "2026-07-05",
-      "title": "Ses Efektleri Eklendi",
-      "text": "Dino Zones'a kart oynama, buton etkileşimleri ve oyun içi olaylar için yeni ses efektleri eklendi."
+      "title": "Ses Efektleri ve Oyun Geri Bildirimleri Eklendi",
+      "text": "Dino Zones'un karşılaşmalarını ve arayüz etkileşimlerini daha canlı hale getirmek amacıyla oyuna ses efektleri eklendi. Kartların oynanması, menü ve buton etkileşimleri ile çeşitli oyun içi olaylar artık sesli geri bildirimlerle destekleniyor. Seslerin yalnızca görsel aksiyonları desteklemesi değil, oyuncuya yaptığı işlemlerin sonucunu daha net hissettirmesi hedeflendi. Menü etkileşimlerinden savaş alanındaki kart hareketlerine kadar farklı bölümlerde kullanılan efektlerle oyunun genel hissi güçlendirildi. Bu güncellemeyle Dino Zones'un görsel ve mekanik sistemlerinin yanında ses tarafındaki temel altyapısı da oluşturulmuş oldu."
     },
     {
       "date": "2026-11-01",
-      "title": "Görsel Kimlik ve Kart Sistemi Yenilendi",
-      "text": "Dino Zones'un görsel tarzı baştan sona yenilendi. Tüm kartlar için eğlenceli, çizgi roman tarzında yeni dinozor illüstrasyonları hazırlandı ve kart sistemine eklendi. T-Rex, Triceratops, Spinosaurus, Dilophosaurus ve diğer tüm dinozorlar artık ortak ve tutarlı bir sanat stiline sahip. Oyuncu avatarları yeni görsel stile uygun şekilde yeniden tasarlandı ve ana menü arka planı daha renkli, canlı ve çizgi film tarzında tarih öncesi bir dünyaya dönüştürüldü. Ana menü arayüzü; menü butonları, görev alanı, günlük ödül bölümü, profil alanı, ayarlar ve çıkış butonlarıyla birlikte yeni sanat tarzına uygun şekilde güncellendi. Kart arayüzündeki enerji ve güç göstergeleri yenilendi, isim ve yetenek metinlerinin hizalamaları düzeltilerek okunabilirlik artırıldı ve savaş alanındaki kartlar yeni tasarıma geçirildi. Ayrıca kayıtlı destelerde kart görsellerinin oyuncunun elinde görünmemesine neden olan veri sorunu giderildi. Böylece hem oyuncunun hem de rakibin kartları savaş sırasında doğru görsellerle gösteriliyor. Dino Zones artık daha tutarlı, renkli ve kendine özgü bir görsel kimliğe sahip."
+      "title": "Görsel Kimlik ve Kart Sistemi Baştan Sona Yenilendi",
+      "text": "Dino Zones'un görsel tarzı baştan sona yenilendi. Tüm kartlar için eğlenceli, çizgi roman tarzında yeni dinozor illüstrasyonları hazırlandı ve kart sistemine eklendi. T-Rex, Triceratops, Spinosaurus, Dilophosaurus ve diğer tüm dinozorlar artık ortak ve tutarlı bir sanat stiline sahip. Oyuncu avatarları da yeni görsel stile uygun şekilde yeniden tasarlandı. Ana menü arka planı tamamen yenilenerek daha renkli, canlı ve çizgi film tarzında bir tarih öncesi dünyaya dönüştürüldü. Ana menü arayüzü de yeni sanat tarzına uyum sağlayacak şekilde güncellendi. Menü butonları, görev alanı, günlük ödül bölümü, profil alanı, ayarlar ve çıkış butonları daha yumuşak, sıcak ve oyunun genel atmosferine uygun bir tasarıma kavuştu. Kart arayüzünde enerji ve güç göstergeleri yenilendi, kart içerisindeki isim ve yetenek metinlerinin hizalamaları düzeltildi ve okunabilirlik artırıldı. Savaş alanındaki kartlar da yeni kart tasarımına geçirildi. Ayrıca daha önce kaydedilmiş destelerde kart görsellerinin oyuncunun elinde görünmemesine neden olan veri sorunu giderildi. Böylece hem oyuncunun hem de rakibin kartları artık savaş sırasında doğru görsellerle gösteriliyor. Bu büyük görsel güncellemenin ardından Dino Zones çok daha tutarlı, renkli ve kendine özgü bir görsel kimliğe kavuştu."
     }
   ],
   "projects": [
@@ -85,12 +65,12 @@
     },
     {
       "title": "Dino Zones",
-      "status": "Prototip / geliştirme aşamasında",
+      "status": "Aktif geliştirme aşamasında",
       "platform": "PC",
       "icon": "",
       "screenshots": [],
-      "short_description": "Dinozor temalı stratejik kart oyunu. Kart kombinasyonlarıyla taktiksel karşılaşmalara gir.",
-      "description": "Dino Zones, dinozor temalı stratejik kart oyunu olarak geliştirilen bir PC projesidir. Oyuncular farklı kart kombinasyonları, özel yetenekler ve taktiksel hamlelerle karşılaşmalara girer. Oyun altyapısı tamamlanmış olup yeni mekanikler, kart sistemleri ve denge yapısı üzerinde çalışmalar devam etmektedir. Projenin hedefi, kolay anlaşılır ama stratejik derinliği olan bir kart oyunu deneyimi sunmaktır. Kart tasarımları, arayüz, ikonlar ve genel görsel stil için projeye katkı sağlayabilecek bir tasarımcıya ihtiyaç vardır.",
+      "short_description": "Dinozor temalı stratejik kart oyunu. Kendi desteni oluştur, farklı dinozorların yeteneklerini kullan ve taktiksel karşılaşmalara gir.",
+      "description": "Dino Zones, dinozor temalı stratejik bir PC kart oyunudur. Oyuncular farklı dinozor kartlarından kendi destelerini oluşturarak özel yetenekler, enerji yönetimi ve kart kombinasyonları üzerinden taktiksel karşılaşmalara girer. Proje geliştirme sürecinde temel kart ve savaş sistemlerinden günlük görevler, günlük ödüller, mağaza ve oyuncu ilerleme sistemlerine kadar genişletildi. Oyunun görsel kimliği daha sonra baştan sona yenilenerek dinozor kartları, oyuncu avatarları, ana menü, savaş alanı ve arayüzler ortak bir çizgi roman ve çizgi film tarzına geçirildi. Dino Zones aktif olarak geliştirilmeye devam etmektedir.",
       "button": "Yakında",
       "url": ""
     }
