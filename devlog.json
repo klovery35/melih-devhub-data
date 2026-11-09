@@ -83,6 +83,7 @@
       "symbol": "🎚️",
       "short_description": "Ses sinyalinin seviyesini on kademeli görsel bir göstergeyle ifade etmeyi amaçlayan, işlemsel yükselteç (op-amp) temelli analog elektronik projesi.",
       "description": "VU metre, ses sinyalinin seviyesini görsel olarak takip etmeye yarayan bir ölçüm/gösterge sistemidir. Bu çalışma, op-amp tabanlı analog devre yaklaşımıyla ses sinyalinin genliğini farklı eşik seviyelerinde değerlendirerek 10 kademeli bir gösterge oluşturma fikrine odaklanır.",
+      "image": "https://raw.githubusercontent.com/klovery35/melih-devhub-data/main/images/vu-metre-devre-semasi.png",
       "topics": [
         "İşlemsel yükselteçler",
         "Analog karşılaştırma",
@@ -140,6 +141,36 @@
         {
           "heading": "Değerlendirme Kriterleri",
           "text": "S11, VSWR, kazanç, yönlülük ve ışıma diyagramı, anten tasarımının değerlendirilmesinde kullanılabilecek temel RF performans parametreleridir."
+        }
+      ]
+    },
+    {
+      "id": "cift-kanatcikli-anten-tasarimi",
+      "title": "Çift Kanatçıklı Anten Tasarımı",
+      "category": "RF ve Anten",
+      "symbol": "📡",
+      "short_description": "Çift kanatçıklı anten geometrisinin elektromanyetik dalga yayılımı açısından incelendiği anten tasarım çalışması.",
+      "description": "Bu projede çift kanatçıklı bir antenin geometrik yapısı ve yönlü elektromanyetik dalga yayılımı ile ilişkisi ele alınır. Tasarım görseli, antenin biçimini ve çalışma yaklaşımını belgelemek amacıyla paylaşılmıştır.",
+      "image": "https://raw.githubusercontent.com/klovery35/melih-devhub-data/main/images/cift-kanatcikli-anten-tasarimi.png",
+      "topics": [
+        "Anten tasarımı",
+        "RF",
+        "Elektromanyetik dalgalar",
+        "Anten geometrisi",
+        "Işıma karakteristiği"
+      ],
+      "sections": [
+        {
+          "heading": "Tasarımın Amacı",
+          "text": "Çift kanatçıklı anten geometrisinin RF uygulamalarındaki rolünü ve yönlü yayılım bakımından temel özelliklerini incelemek."
+        },
+        {
+          "heading": "Tasarım Görseli",
+          "text": "Modelin tasarım görünümü, anten geometrisinin anlaşılması ve proje dokümantasyonu için kullanılır."
+        },
+        {
+          "heading": "Değerlendirme Kriterleri",
+          "text": "Tasarımın değerlendirilmesinde çalışma frekansı, empedans uyumu, ışıma diyagramı ve kazanç gibi parametreler dikkate alınabilir."
         }
       ]
     }
