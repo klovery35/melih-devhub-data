@@ -74,5 +74,74 @@
       "button": "Yakında",
       "url": ""
     }
+  ],
+  "school_projects": [
+    {
+      "id": "opamp-vu-metre",
+      "title": "10 Katmanlı Op-Amp Tabanlı VU Metre",
+      "category": "Analog Elektronik",
+      "symbol": "🎚️",
+      "short_description": "Ses sinyalinin seviyesini on kademeli görsel bir göstergeyle ifade etmeyi amaçlayan, işlemsel yükselteç (op-amp) temelli analog elektronik projesi.",
+      "description": "VU metre, ses sinyalinin seviyesini görsel olarak takip etmeye yarayan bir ölçüm/gösterge sistemidir. Bu çalışma, op-amp tabanlı analog devre yaklaşımıyla ses sinyalinin genliğini farklı eşik seviyelerinde değerlendirerek 10 kademeli bir gösterge oluşturma fikrine odaklanır.",
+      "topics": [
+        "İşlemsel yükselteçler",
+        "Analog karşılaştırma",
+        "Eşik gerilimleri",
+        "Ses seviyesi gösterimi",
+        "Devre tasarımı"
+      ],
+      "sections": [
+        {
+          "heading": "Ne İşe Yarar?",
+          "text": "Bir ses sinyalinin anlık düzeyi arttıkça veya azaldıkça bunu görsel kademeler üzerinden anlaşılır hâle getirir. Ses sistemlerinde sinyal seviyesi takibini örnekleyen bir uygulamadır."
+        },
+        {
+          "heading": "Çalışma Prensibi",
+          "text": "Op-amp tabanlı karşılaştırma kademeleri, girişteki sinyal seviyesini belirlenen referanslarla karşılaştırmak için kullanılabilir. Sinyal farklı eşikleri geçtiğinde karşılık gelen gösterge kademeleri etkinleşir."
+        },
+        {
+          "heading": "Mühendislik Açısından",
+          "text": "Analog devreler, sinyal koşullandırma, referans seviyesi oluşturma ve karşılaştırıcı mantığı gibi elektrik-elektronik konularını bir araya getirir."
+        },
+        {
+          "heading": "Değerlendirme Kriterleri",
+          "text": "Kademelerin tutarlılığı, referans eşiklerinin seçimi ve farklı giriş seviyelerinde göstergenin anlaşılır tepki vermesi bu tür devrelerin değerlendirilmesinde önem taşır."
+        }
+      ]
+    },
+    {
+      "id": "1-ghz-horn-anten",
+      "title": "1 GHz Horn Anten",
+      "category": "RF ve Anten",
+      "symbol": "📡",
+      "short_description": "1 GHz çalışma frekansı hedefiyle ele alınan, elektromanyetik dalgaların belirli bir yönde yayılması ve alınması prensiplerini inceleyen horn anten projesi.",
+      "description": "Horn (boynuz) anten, açılan bir iletim yapısı sayesinde elektromanyetik dalgaların uzaya yönlü biçimde aktarılmasında veya alınmasında kullanılan bir anten türüdür. Bu proje, 1 GHz frekansında anten tasarımının temel ilkelerine ve yönlü ışıma davranışına odaklanır.",
+      "topics": [
+        "1 GHz RF",
+        "Elektromanyetik alanlar",
+        "Anten tasarımı",
+        "Yönlülük",
+        "Işıma diyagramı",
+        "Empedans uyumu"
+      ],
+      "sections": [
+        {
+          "heading": "Ne İşe Yarar?",
+          "text": "Horn antenler, elektromanyetik enerjinin belirli bir doğrultuda daha etkin yayılmasının veya o doğrultudan alınmasının istendiği RF ve mikrodalga uygulamalarında kullanılır."
+        },
+        {
+          "heading": "Çalışma Prensibi",
+          "text": "Giderek genişleyen anten açıklığı, kılavuzlanan elektromanyetik enerjinin serbest uzaya geçişini destekler. Açıklık geometrisi ışıma karakteristiği ve yönlülük üzerinde etkilidir."
+        },
+        {
+          "heading": "Mühendislik Açısından",
+          "text": "Dalga yayılımı, çalışma frekansı, açıklık geometrisi, empedans uyumu, kazanç ve ışıma deseni gibi temel anten ve elektromanyetik tasarım kavramlarını kapsar."
+        },
+        {
+          "heading": "Değerlendirme Kriterleri",
+          "text": "S11, VSWR, kazanç, yönlülük ve ışıma diyagramı, anten tasarımının değerlendirilmesinde kullanılabilecek temel RF performans parametreleridir."
+        }
+      ]
+    }
   ]
 }
