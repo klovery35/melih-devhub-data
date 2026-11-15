@@ -147,6 +147,57 @@
       "image_heading": "Çift Kanatçıklı Anten Tasarımı",
       "image_alt": "1 GHz horn antenin çift kanatçıklı tasarımının 3B model görünümü",
       "image_caption": "1 GHz horn anten projesinin çift kanatçıklı anten tasarımı. Büyük görüntülemek için görsele tıkla."
+    },
+    {
+      "id": "raspberry-pi-pico-rgb-led",
+      "title": "Potansiyometre Kontrollü RGB LED | Raspberry Pi Pico",
+      "category": "Gömülü Sistemler",
+      "symbol": "💡",
+      "short_description": "Raspberry Pi Pico, ADC ve PWM kullanarak potansiyometre konumuna göre kırmızı, yeşil ve mavi arasında geçiş yapan RGB LED uygulaması.",
+      "description": "EEE 313 Introduction to Embedded Systems dersi kapsamında Roda Avşar ve Melih Çağrı Dayı tarafından geliştirilen bu uygulamada, potansiyometreden okunan analog sinyal Raspberry Pi Pico ile sayısal değere dönüştürülür. MicroPython programı bu değere göre ortak anot RGB LED’in PWM kanallarını ayarlar. Potansiyometre çevrildikçe LED kırmızıdan yeşile, ardından maviye kademesiz geçiş yapar.",
+      "image": "https://raw.githubusercontent.com/klovery35/melih-devhub-data/main/images/rgb-led-circuit.jpg",
+      "image_heading": "Gerçek Devre Fotoğrafı",
+      "image_alt": "Raspberry Pi Pico, potansiyometre ve RGB LED breadboard uygulaması",
+      "image_caption": "Breadboard üzerinde kurulan Raspberry Pi Pico ve RGB LED devresi.",
+      "gallery": [
+        {
+          "url": "https://raw.githubusercontent.com/klovery35/melih-devhub-data/main/images/rgb-led-fritzing.png",
+          "heading": "Fritzing Devre Şeması",
+          "caption": "Raspberry Pi Pico ile potansiyometre ve ortak anot RGB LED bağlantıları."
+        }
+      ],
+      "downloads": [
+        {
+          "label": "MicroPython Kaynak Kodu (.py)",
+          "url": "https://raw.githubusercontent.com/klovery35/melih-devhub-data/main/files/rgb-led-micropython.py",
+          "filename": "rgb-led-micropython.py"
+        },
+        {
+          "label": "Fritzing Devre Dosyası (.fzz)",
+          "url": "https://raw.githubusercontent.com/klovery35/melih-devhub-data/main/files/rgb-led-fritzing.fzz",
+          "filename": "rgb-led-fritzing.fzz"
+        }
+      ],
+      "topics": [
+        "Raspberry Pi Pico",
+        "MicroPython",
+        "ADC (GP26)",
+        "PWM (GP16, GP17, GP18)",
+        "Ortak anot RGB LED",
+        "Potansiyometre",
+        "Thonny IDE",
+        "Fritzing"
+      ],
+      "sections": [
+        {
+          "heading": "Çalışma Prensibi",
+          "text": "Potansiyometre GP26 üzerindeki ADC girişinden 16 bit değer olarak okunur. Değer 0–2 aralığına ölçeklenir; ilk yarıda kırmızıdan yeşile, ikinci yarıda yeşilden maviye geçiş hesaplanır. PWM görev döngüleri ortak anot bağlantısı için terslenir."
+        },
+        {
+          "heading": "Donanım ve Yazılım",
+          "text": "Raspberry Pi Pico, ortak anot RGB LED, potansiyometre, breadboard ve bağlantı kabloları kullanılmıştır. Program Thonny IDE üzerinden MicroPython ile geliştirilmiştir. PWM frekansı 1 kHz, döngü bekleme süresi 20 ms olarak ayarlanmıştır."
+        }
+      ]
     }
   ]
 }
