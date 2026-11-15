@@ -154,7 +154,7 @@
       "category": "Gömülü Sistemler",
       "symbol": "💡",
       "short_description": "Raspberry Pi Pico, ADC ve PWM kullanarak potansiyometre konumuna göre kırmızı, yeşil ve mavi arasında geçiş yapan RGB LED uygulaması.",
-      "description": "EEE 313 Introduction to Embedded Systems dersi kapsamında Roda Avşar ve Melih Çağrı Dayı tarafından geliştirilen bu uygulamada, potansiyometreden okunan analog sinyal Raspberry Pi Pico ile sayısal değere dönüştürülür. MicroPython programı bu değere göre ortak anot RGB LED’in PWM kanallarını ayarlar. Potansiyometre çevrildikçe LED kırmızıdan yeşile, ardından maviye kademesiz geçiş yapar.",
+      "description": "Raspberry Pi Pico kullanılarak geliştirilen bu projede, potansiyometre aracılığıyla RGB LED'in renk kontrolü gerçekleştirilmektedir. Potansiyometreden alınan analog sinyal, mikrodenetleyicinin ADC birimi tarafından okunarak dijital verilere dönüştürülür. Elde edilen değerlere göre PWM sinyalleri kullanılarak RGB LED'in renk kanalları kontrol edilir. Potansiyometrenin konumuna bağlı olarak kırmızı, yeşil ve mavi renkler arasında yumuşak geçişler sağlanır. Proje, MicroPython programlama dili kullanılarak geliştirilmiş olup analog veri okuma ve PWM tabanlı LED kontrolünün temel prensiplerini göstermektedir.",
       "image": "https://raw.githubusercontent.com/klovery35/melih-devhub-data/main/images/rgb-led-circuit.jpg",
       "image_heading": "Gerçek Devre Fotoğrafı",
       "image_alt": "Raspberry Pi Pico, potansiyometre ve RGB LED breadboard uygulaması",
